@@ -1,4 +1,6 @@
 
-node.js is pretty cool do im starting to like python more and more
+## Helloooooo!!!! 👋
 
-###### I don't really have much to put here (yet!!!)
+My name is vlryexx, im a node.js software developer, thats pretty much all lol.
+
+###### im not that great with profiles or bios
